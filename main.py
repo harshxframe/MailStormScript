@@ -2,7 +2,7 @@ from mailjet_rest import Client
 import os
 from dotenv import load_dotenv
 import sys
-load_dotenv()
+load_dotenv() 
 
  
 # 1. EDIT THESE WITH YOUR MAILJET CREDENTIALS
